@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/hurisheng/go-futu-api/pb/qotcommon"
+	"github.com/Pai-Po/go-futu-api/pb/qotcommon"
 )
 
 func TestConnect(t *testing.T) {

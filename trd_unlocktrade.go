@@ -4,9 +4,9 @@ import (
 	"context"
 	"crypto/md5"
 
-	"github.com/hurisheng/go-futu-api/pb/trdcommon"
-	"github.com/hurisheng/go-futu-api/pb/trdunlocktrade"
-	"github.com/hurisheng/go-futu-api/protocol"
+	"github.com/Pai-Po/go-futu-api/pb/trdcommon"
+	"github.com/Pai-Po/go-futu-api/pb/trdunlocktrade"
+	"github.com/Pai-Po/go-futu-api/protocol"
 )
 
 const (

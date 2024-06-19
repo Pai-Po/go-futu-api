@@ -1,7 +1,7 @@
 package futuapi
 
 import (
-	"github.com/hurisheng/go-futu-api/pb/qotcommon"
+	"github.com/Pai-Po/go-futu-api/pb/qotcommon"
 )
 
 // 证券标识
